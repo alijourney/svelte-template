@@ -1,9 +1,7 @@
 <p align="center">
   <h3 align="center">Svelte Radial Menu</h3>
   <p align="center">
-    Radial Menu Experiment. Based on <a href="https://twitter.com/raunofreiberg" target="_blank" rel="noreferrer">Rauno's</a
-		>
-		<a href="https://rauno.me/craft/radial-menu" target="_blank" rel="noreferrer">Work</a>
+    Radial Menu Experiment. Based on <a href="https://twitter.com/raunofreiberg" target="_blank" rel="noreferrer">Celso's Work
   </p>
   
  <p align="center">
